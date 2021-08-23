@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StealthFox98
 - 👀 I’m interested in geoscience and software development
-- 🌱 I’m currently learning Java and JS. Will re-learn C, C++ and Python to manipulate large data.
+- 🌱 I’m currently learning Java and JS. Will re-learn C, C++ and Python to manipulate large amount of data.
 - 💞️ I’m looking to collaborate on software development companies for the energy industry
 - 📫 How to reach me: already got my Twitter!
 
